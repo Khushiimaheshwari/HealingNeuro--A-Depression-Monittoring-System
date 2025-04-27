@@ -32,6 +32,8 @@ Detailed feedback including
 Regular assessments and 1:1 video calls with professionals to track changes in mental health.
 Updated reports reflecting progress or decline.
 
+<br/>
+
 ## Features
 - Text-based depression monitoring using machine learning and deep learning models
 - Real-time and continuous monitoring through a Chrome extension
@@ -40,6 +42,8 @@ Updated reports reflecting progress or decline.
 - Expert-driven recommendations and mental health support suggestions
 - User-friendly interface that is easy to access and navigate
 - Cost-effective solution designed for wide accessibility
+
+<br/>
 
 ## Tech Stack
 **Frontend**:
@@ -62,6 +66,8 @@ Updated reports reflecting progress or decline.
 - sqlite database
 - Deepseek R1's API for real time suggestions
 - Git,Python 3
+
+<br/>
 
 ## Architecture
 
