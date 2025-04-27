@@ -63,11 +63,11 @@ Updated reports reflecting progress or decline.
 - Deepseek R1's API for real time suggestions
 - Git,Python 3
 
-**Architecture**
+## Architecture
 
-Web Application Workflow:
+**Web Application Workflow:**
 ![Web_Page_Methodology](https://github.com/user-attachments/assets/9819601d-3d48-4de8-8415-516aee7a8e75)
 
-Chrome Extension User Workflow and Technical Workflow
+**Chrome Extension User Workflow and Technical Workflow**
 ![Extension_User_workflow drawio](https://github.com/user-attachments/assets/aa884e20-7bd5-462a-8493-050808e57e6e)
 ![Extension_technical_workflow drawio](https://github.com/user-attachments/assets/ece81571-3e25-4bfa-a93f-2696de1732ba)
